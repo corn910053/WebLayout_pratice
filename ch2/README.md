@@ -4,7 +4,7 @@
 ## ch2: 製作一個互動圖文卡片
 ***
 
-![image](https://github.com/JohnnyOfSnow/WebLayout_pratice/blob/master/ch1/image/ch2hw.gif)
+![image](https://github.com/JohnnyOfSnow/WebLayout_pratice/blob/master/ch2/image/ch2hw.gif)
 
 * **練習內容**
   * 做出具有互動圖文卡片的網頁頁面
@@ -77,7 +77,6 @@ b.定位會往父層開始找，只要有flex relative absolute就定在那裡�
 ``在圖片(item)摸到後的直線，寬度設為0(width: 100%;)``
 
 ``transition: width .5s .3s; 利用transition可以設定延遲的特性，延遲直線寬度數值的改變，做出像動畫般的效果``
-
 
 
 ***
