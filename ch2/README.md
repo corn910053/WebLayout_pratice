@@ -19,9 +19,11 @@
 ### 1. CSS absolute 絕對定位
 ***
 
-a.只定位一次。
-b.定位會往父層開始找，只要有flex relative absolute就定在那裡，否則最後定在視窗。
-c.可以阻止block佔一整行。
+**a.只定位一次。**
+
+**b.定位會往父層開始找，只要有flex relative absolute就定在那裡，否則最後定在視窗。**
+
+**c.可以阻止block佔一整行。**
 
 ![image](https://github.com/JohnnyOfSnow/WebLayout_pratice/blob/master/ch2/image/absolute_ex2.jpg)
 
@@ -30,13 +32,14 @@ c.可以阻止block佔一整行。
 ### 2. CSS relative 相對定位
 ***
 
-a.相對於資料中自己的位置，去做偏移。
-b.若是只設定position: relative;可能看不出有什麼效果，但可以拿來與其他定位搭配使用，像是上面absolute範例中，紅色Hot想要定位在item灰色框框左上角時，設定在item的絕對定位是拿來固定紅色Hot用的(依據1.b定位會往父層找的特性)。
+**a.相對於資料中自己的位置，去做偏移。**
+
+**b.若是只設定position: relative;可能看不出有什麼效果，但可以拿來與其他定位搭配使用，像是上面absolute範例中，紅色Hot想要定位在item灰色框框左上角時，設定在item的絕對定位是拿來固定紅色Hot用的(依據1.b定位會往父層找的特性)。**
+
+**c.可以阻止block佔一整行**
 
 ![image](https://github.com/JohnnyOfSnow/WebLayout_pratice/blob/master/ch2/image/relative_ex.jpg)
 
-
-c.可以阻止block佔一整行
 
 ***
 ### 3. transition 動畫的做法
