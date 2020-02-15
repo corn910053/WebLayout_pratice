@@ -13,6 +13,15 @@
 			list-style: none;
 			font-family: 'Noto Sans TC', sans-serif;
 		}
+		span{
+			padding-bottom: 10px;
+			border-bottom: 3px solid #000;
+			width: 60%;
+			margin: 70px auto; /* Horizontally centered */
+			font-size: 22px;
+			font-weight: normal;
+			text-align: center;
+		}
 		.wrap{
 			position: relative;
 		}
@@ -69,13 +78,28 @@
 			font-weight: 300;
 		}
 
+		.sakupin{
+			width: 100%;
+			margin: auto;
+			display: flex;
+			justify-content: center;
+		}
+		.sakupin .item{
+			width: 300px;
+			margin: 10px;
+			border: 1px solid #aaa;
+		}
+		.sakupin .item img{
+			width: 100%;
+		}
+
 
 	</style>
 </head>
 <body>
 	<div class="wrap">
 		<div class="banner2">
-			<img src="./image/title/t2.jpg" width="100%" height="100%">
+			<img src="./image/title/t1.jpg" width="100%" height="100%">
 		</div>
 		<div class="banner">
 			<div class="container">
@@ -93,14 +117,25 @@
 						他們如何思考自己的行為，以及付出行動後獲得的感想</p>
 				</div>
 			</div>
-			
 		</div>
-		
-
-		<div class="sec2">
-			
-		</div>
+		<h2><span>作品</span></h2>
+		<div class="sakupin">
+			<div class="item">
+				<img src="./image/sakupin/skp1.jpg" width="300" height="200">
+				<h2>蒼之彼方的四重奏</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident fugiat deleniti dolorum at vitae numquam officia aspernatur repellat molestiae ratione nemo tenetur eum eveniet, nostrum recusandae, cumque dolores ullam laborum.</p>
+			</div>
+			<div class="item">
+				<img src="./image/sakupin/skp2.jpg" width="300" height="200">
+				<h2>Re:Llief</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla, voluptatum, vel. Error repudiandae hic aliquid, ullam praesentium deserunt. Voluptates nisi ut earum esse, at dignissimos asperiores laudantium perferendis molestiae temporibus!</p>
+			</div>
+			<div class="item">
+				<img src="./image/sakupin/skp3.jpg" width="300" height="200">
+				<h2>向上仰望那滿天繁星</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus tempore ab eius aliquid quo modi, adipisci, explicabo possimus sed eveniet excepturi doloremque consequuntur soluta hic, illo laudantium blanditiis eos et.</p>
+			</div>
+		</div>	
 	</div>
-
 </body>
 </html>

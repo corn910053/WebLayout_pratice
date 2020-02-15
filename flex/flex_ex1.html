@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<style type="text/css">
+		.box{
+			width: 1000px;
+			height: 800px;
+			border: 6px solid #f00;
+			display: flex;
+			justify-content: flex-start;
+			flex-direction: row;
+			/*flex-wrap: wrap;*/
+			align-items: center;
+			align-content: center;
+		}
+		.item{
+			width: 500px;
+			height: 200px;
+			font-size: 16px;
+			flex-shrink: 0;
+		}
+		.item:first-letter{
+			font-size: 40px;
+		}
+
+		.item1{
+			background-color: #faa;
+			flex-shrink: 0;
+			
+		}
+		.item2{
+			background-color: #afa;
+			flex-shrink: 1;
+
+		}
+		.item3{
+			background-color: #aaf;
+			flex-shrink: 1;
+		}
+		/*.item4{
+			background-color: #faf;
+			order: -1;
+		}
+		.item5{
+			background-color: #aff;
+			order: -1;
+		}
+		.item6{
+			background-color: #ffa;
+			
+		}*/
+		
+		
+	</style>
+</head>
+<body>
+	<div class="box">
+		<div class="item item1">1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro malit laboriosam similique necessitatibus. Nobis animi, quod eveniet, dolorum aut at quibusdam.</div>
+		<div class="item item2">2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum voluptatibus, fuga expedita, voluptate quo molestias facilis. Id natus expedita, ipsa dolor deleniti fugit molestiae repudiandae. Illum modi consectetur libero quos.</div>
+		<div class="item item3">3 Lorem ipsum dolor sit amet, consectetur adipisicing elit.it. Odio odit facere aliquam quisquam accusantium modi accusamusuae eveniet tempore quas aperiam doloribus! Saepe eveniet rem odio in!</div>
+		<!--
+		<div class="item item4">4</div>
+		<div class="item item5">5</div>
+		<div class="item item6">6</div>
+		-->
+	</div>
+</body>
+</html>
