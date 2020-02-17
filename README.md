@@ -2,9 +2,10 @@
 
 ***
 ## 學習目錄
-* **ch1: 圖文滿版區塊**
-* **ch2: 製作一個互動圖文卡片**
-* **ch3: 人員介紹卡片**
+* **[ch1: 圖文滿版區塊](https://github.com/JohnnyOfSnow/WebLayout_pratice/tree/master/ch1)**
+* **[ch2: 製作一個互動圖文卡片](https://github.com/JohnnyOfSnow/WebLayout_pratice/tree/master/ch2)**
+* **[ch3: 人員介紹卡片](https://github.com/JohnnyOfSnow/WebLayout_pratice/tree/master/ch3)**
+* **[ch4: 交錯漂浮版](https://github.com/JohnnyOfSnow/WebLayout_pratice/tree/master/ch4)**
 
 ***
 ## 學習環境與工具
