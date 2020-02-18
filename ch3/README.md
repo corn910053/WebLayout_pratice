@@ -4,7 +4,7 @@
 ## ch3: 人員介紹卡片
 ***
 
-![image](https://github.com/JohnnyOfSnow/WebLayout_pratice/blob/master/ch4/image/ch3hw.gif)
+![image](https://github.com/JohnnyOfSnow/WebLayout_pratice/blob/master/ch3/image/ch3hw.gif)
 
 * **練習內容**
   * 做出具有人員介紹卡片的網頁頁面
