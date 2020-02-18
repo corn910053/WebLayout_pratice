@@ -17,10 +17,22 @@
   * flex-direction 的原理
   * nth-child 選取器教學
 
-
 ***
 ### 1. 區塊尺寸怎麼算
 ***
+
+**寬度的設定是指內容的寬度，而不是整體的寬度**
+
+**[看的到的尺寸]**
+
+``整體的寬度是 width + border(邊框) + padding(內距)``
+
+
+**CSS盒模型: [看不到的尺寸，實際上物件占據的空間]**
+
+``width + border(邊框) + padding(內距) + margin(外距)``
+
+![image](https://github.com/JohnnyOfSnow/WebLayout_pratice/blob/master/ch4/image/item_size.jpg)
 
 ***
 ### 2. Box-sizing 是甚麼
