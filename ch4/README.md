@@ -32,7 +32,7 @@
 
 ``width + border(邊框) + padding(內距) + margin(外距)``
 
-![image](https://github.com/JohnnyOfSnow/WebLayout_pratice/blob/master/ch4/image/item_size.jpg)
+**範例請參考 [ch3: 人員介紹卡片 裡面的區塊尺寸怎麼算](https://github.com/JohnnyOfSnow/WebLayout_pratice/tree/master/ch2)**
 
 ***
 ### 2. Box-sizing 是甚麼
@@ -57,3 +57,11 @@
 ***
 ### 6. nth-child 選取器教學
 ***
+
+``:nth-child 是偽類選取器(用於定義元素的特殊狀態，像是滑鼠游標滑上圖片的:hover、點擊過的超連結:visited)``
+
+``語法： :nth-child(n)``
+
+``括弧裡的n可以寫odd(奇數)、even(偶數)、加減式(e.g.3n+1, 2n-1)``
+
+![image](https://github.com/JohnnyOfSnow/WebLayout_pratice/blob/master/ch4/image/nth_child.jpg)

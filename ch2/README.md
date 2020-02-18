@@ -95,3 +95,5 @@
 ***
 ### 4. flex-direction 的原理
 ***
+
+**請參考 [flex 學習筆記](https://github.com/JohnnyOfSnow/WebLayout_pratice/tree/master/flex)**
