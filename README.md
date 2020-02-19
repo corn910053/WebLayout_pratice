@@ -6,6 +6,7 @@
 * **[ch2: 製作一個互動圖文卡片](https://github.com/JohnnyOfSnow/WebLayout_pratice/tree/master/ch2)**
 * **[ch3: 人員介紹卡片](https://github.com/JohnnyOfSnow/WebLayout_pratice/tree/master/ch3)**
 * **[ch4: 交錯漂浮版](https://github.com/JohnnyOfSnow/WebLayout_pratice/tree/master/ch4)**
+* **[ch5: 超通用橫式版面](https://github.com/JohnnyOfSnow/WebLayout_pratice/tree/master/ch5)**
 
 ***
 ## 學習環境與工具
