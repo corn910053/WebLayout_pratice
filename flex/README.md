@@ -124,7 +124,7 @@ table排版->float排版->inline-block排版->box->flex box->flex and Grid
 
 **其他不知道要整理到哪裡的**
 
-flex 預設不換行，故物體大小超過容器寬度時，物體寬度會縮起來
+flex 預設不換行，故物體大小超過容器寬度時，物體寬度會縮起來(flex wrap可以解決)
 
 align 次軸設定，其他都是主軸設定
 
